@@ -1,0 +1,24 @@
+body{
+    
+    font-family: 'Courier New', Courier, monospace;
+    color: rebeccapurple;
+    font-size: 30px;
+    text-align: center;
+    background-image: url("./IMAGES/Login.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+h1{
+    text-shadow: 5px 5px 5px rgb(175, 175, 208);
+
+    color: rgb(210, 210, 221);
+}
+.attention{
+    color: greenyellow;
+}
+a {
+    color:black;
+    
+}

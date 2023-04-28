@@ -1,0 +1,17 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: beige;
+    font-size: 20px;
+    text-align: center;
+    background-image: url("post.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: rgb(18, 155, 18);
+    
+}
+.attention {
+    color: blueviolet;
+
+}
